@@ -1,1 +1,0 @@
-import{_ as e}from"./q-08BxyWLO.js";import{c as t,q as o}from"./q-Brge-1IS.js";const a=t(o(()=>e(()=>import("./q-BQEcCkYp.js"),[]),"s_xYL1qOwPyDI")),r={title:"Qwiksift",meta:[{name:"Qwiksift Webapp",content:"Qwiksift is your one stop shop for all your daily needs. Compare amongst the best of quick commerce and brag the best deal within seconds."}]};export{a as default,r as head};
